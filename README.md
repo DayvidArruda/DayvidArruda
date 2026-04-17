@@ -16,10 +16,15 @@ Sou um desenvolvedor focado em **Frontend**, atualmente cursando o primeiro ano 
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📌 Projeto em Destaque:
+## 🚀 Meu Portfólio
+Confira meus projetos, habilidades e trajetória completa no meu site pessoal:
+👉 [**Acessar meu Portfólio**](https://portfolio-one-bice-nw3ac3p1kx.vercel.app/)
+
+---
+
+## 📂 Outros Projetos em Destaque:
 ### [💰 App de Fluxo de Caixa](https://github.com/DayvidArruda/finance-app-frontend)
-Uma aplicação completa para gestão financeira pessoal.
-- **Destaque técnico:** Manipulação de DOM e lógica de cálculos em JS.
-- **Veja o projeto no ar:** [Clique aqui](https://finance-app-frontend-376scmoe3-dayvidarrudas-projects.vercel.app/)
+Gestão financeira com foco em manipulação de DOM e lógica JS.
 
 ---
 
