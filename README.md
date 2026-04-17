@@ -1,25 +1,29 @@
-### Olá! Eu sou Dayvid Arruda 👋
+# Olá, eu sou o Dayvid Arruda! 👋
 
-- 🌱 Desenvolvedor Frontend em formação | HTML, CSS, JavaScript.
-- ⌨️ Focado em criar interfaces modernas, acessíveis e responsivas.
+Sou um desenvolvedor focado em **Frontend**, atualmente cursando o primeiro ano de faculdade em Recife-PE. Sou apaixonado por transformar ideias em interfaces funcionais e responsivas.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayvid-arruda-dev/)
+## 🚀 No que estou focado agora:
+- Aprimorando meus conhecimentos em **JavaScript (ES6+)**.
+- Construindo projetos práticos com **HTML5 Semântico e CSS3 Moderno**.
+- Iniciando meus estudos em frameworks como **React**.
+
+## 🛠️ Tecnologias e Ferramentas:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 📌 Projeto em Destaque:
+### [💰 App de Fluxo de Caixa](https://github.com/DayvidArruda/finance-app-frontend)
+Uma aplicação completa para gestão financeira pessoal.
+- **Destaque técnico:** Manipulação de DOM e lógica de cálculos em JS.
+- **Veja o projeto no ar:** [Clique aqui](https://finance-app-frontend-376scmoe3-dayvidarrudas-projects.vercel.app/)
+
+---
+
+📫 **Como me encontrar:**
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://www.outlook.com/?refd=account.microsoft.com&fref=home.banner.viewinbox)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayvid-arruda-dev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dayvid_arruda/)
-
-
-![Dayvid GitHub stats](https://github-readme-stats.vercel.app/api?username=DayvidArruda&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DayvidArruda&layout=compact&theme=dracula)](https://github.com/DayvidArruda)
-
-## Tecnologias que eu uso no meu dia
-
-<div>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img align="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-    <img align="center" alt="Vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
-Apaixonado por tecnologia, estudar e por mostrar que sou capaz de me superar
-dia a dia.
