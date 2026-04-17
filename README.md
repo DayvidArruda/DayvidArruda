@@ -1,8 +1,7 @@
-### Olá! Eu sou Dayvid Arruda ✌️
+### Olá! Eu sou Dayvid Arruda 👋
 
-- 🌱 Estudando Html, Css e Javascript
-- ⌨️ Framework: Bootstrap
-- 😄 Pronouns: ele/dele
+- 🌱 Desenvolvedor Frontend em formação | HTML, CSS, JavaScript.
+- ⌨️ Focado em criar interfaces modernas, acessíveis e responsivas.
 
 
 <div style="display: inline_block"><br>
