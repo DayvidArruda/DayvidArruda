@@ -28,6 +28,8 @@ Gestão financeira com foco em manipulação de DOM e lógica JS.
 
 ---
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DayvidArruda&show_icons=true&theme=radical)
+
 📫 **Como me encontrar:**
 <br>
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://www.outlook.com/?refd=account.microsoft.com&fref=home.banner.viewinbox)
