@@ -29,6 +29,7 @@ Gestão financeira com foco em manipulação de DOM e lógica JS.
 ---
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DayvidArruda&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DayvidArruda&show_icons=true&theme=radical)
 
 📫 **Como me encontrar:**
 <br>
